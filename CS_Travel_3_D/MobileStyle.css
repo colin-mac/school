@@ -1,0 +1,141 @@
+body{
+        font-size:  large;
+        font-family: Helvetica, sans-serif;
+    background-image: url("images/aesthetics/friesss.jpg")
+}
+
+div.header {
+    background-color:pink;
+    border-color: darkred;
+    border-width: thick;
+    border-bottom-left-radius: 80px;
+    border-style: groove;
+    padding: 25
+}
+
+div#footer {
+    background-color: beige;
+    border-color: firebrick;
+    border-width: 8px;
+    border-style: dotted;
+    clear:both;
+}
+
+#allItinerary{
+    
+    float:left;
+}
+.Itinerary{ 
+    background-color:bisque;
+    border-style: groove;
+    border-width: medium;
+    border-color: black;
+    padding-bottom: 20;
+    margin-bottom: 20;
+    margin-top: 15;
+}
+
+h2{
+margin-left: 250;
+}
+
+p{
+padding-bottom: 20
+}
+
+
+div.picture{
+    float:left;
+    padding: 10;
+}
+
+div.content{
+    
+    
+}
+
+div#sidebar{
+    background-color: pink;
+    border-style:groove;
+    border-width: 20;
+    border-color:cyan;
+    width: 250;
+    margin: 50;
+    padding: 20;
+    color:black;
+    font-family: serif;
+    border-radius:50px;
+
+}
+
+/*  EVERYTHING AFTER THIS IS FOR THE ITINERARY PAGE!*/
+
+div.top{
+    background-color: pink;
+
+}
+
+div#description{
+background-color: azure;
+float:;
+}
+
+div#program{
+float:left;
+    background-color: bisque;
+    margin-right: 20;
+}
+
+div#feedback{
+float:left;
+    background-color: coral;
+    clear:both;
+}
+
+div#dates{
+background-color: antiquewhite;
+    float:left;
+      width:150px;
+    height:440px;
+    margin-right:10px;
+}
+
+div.break{
+clear:both;
+}
+
+.button{
+    background-color: yellow;
+    margin-right: 54;
+    padding:3;
+
+
+/* 
+
+HYPERLINKS 
+
+*/
+
+a:link{
+    color:cornflowerblue;
+}
+
+a:visited {
+    
+    color:black;
+}
+
+a:hover {
+    
+    color:red;
+
+}
+
+
+
+
+
+
+
+
+

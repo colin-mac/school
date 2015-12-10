@@ -1,0 +1,155 @@
+body{
+        font-size:  large;
+        font-family: Helvetica, sans-serif;
+    background-image: url("images/aesthetics/floral.png");
+    border-color: black;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+div.header {
+    background-color: whitesmoke;
+    background-image:url("images/aesthetics/greyfloral.png");
+    border-color:black;
+    border-width: 10;
+    border-radius: 20px;
+    border-style:double;
+    padding: 25;
+    margin:10;
+}
+
+div#footer {
+    background-color: white;
+    border-color: firebrick;
+    border-width: 2px;
+    border-style: groove;
+    clear:both;
+}
+
+#allItinerary{
+    
+   
+}
+.Itinerary{ 
+    background-image: url("images/aesthetics/brickwall.png");
+    border-style:groove;
+    border-color: firebrick;
+    border-radius: 16px;
+    border-width: medium;
+    border-color: black;
+    padding-bottom: 20;
+    margin-bottom: 20;
+    margin-top: 15;
+}
+
+h2{
+margin-left: 250;
+}
+
+p{
+padding-bottom: 20
+}
+
+
+div.picture{
+    float:left;
+    padding: 10;
+}
+
+div.content{
+    
+    
+}
+
+div#sidebar{
+    float:right;
+    background-color: deepskyblue;
+    border-style: double;
+    border-width: 6;
+    width: 250;
+    
+
+}
+
+/*  EVERYTHING AFTER THIS IS FOR THE ITINERARY PAGE!*/
+
+div.top{
+    background-color: whitesmoke;
+    border-style:double;
+    border-width: 9px;
+    border-color:black;
+    text-align: center;
+    border-radius:30px;
+    margin-bottom: 20;
+}
+
+div#description{
+background-color: azure;
+float:;
+}
+
+div#program{
+float:left;
+    background-image: url("images/aesthetics/greyfloral.png");
+    margin-right: 20;
+    margin-bottom: 10;
+    padding: 20;
+    border-color: black;
+    border-style:double;
+    border-width: 10px;
+}
+
+div#feedback{
+float:left;
+    background-color: whitesmoke;
+    clear:both;
+}
+
+div#dates{
+background-color: antiquewhite;
+    float:left;
+      width:150px;
+    height:440px;
+    margin-right:10px;
+    border-style:ridge;
+    border-color: black;
+    border-width: 5px;
+}
+
+div.break{
+clear:both;
+}
+
+.button{
+    background-color: yellow;
+    margin-right: 54;
+    padding:3;
+
+}
+
+/* 
+
+HYPERLINKS 
+
+*/
+
+a:link{
+    color:cornflowerblue;
+}
+
+a:visited {
+    
+    color:black;
+}
+
+a:hover {
+    
+    color:red;
+
+}
+
+
+
+
+

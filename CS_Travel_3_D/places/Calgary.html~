@@ -1,0 +1,131 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>Calgary</title>
+    <link type="text/css" rel="stylesheet" href="../DesktopStyle.css" media="screen and (min-width:601px)">
+        
+<link type="text/css" rel="stylesheet" href="../MobileStyle.css" media="screen and (max-width:600px)">
+
+   <!-- <script type="text/javascript" src="scumbag.js"></script>
+    -->
+</head>
+<body>
+    <div class="top">
+	<h1>Calgary, Alberta
+        <br>
+        <br>
+        
+	<img src="../images/Thumbnails/calgary_thumb.jpg"/>
+    </h1>
+    </div>
+                <div id="dates">
+        
+        <ul><h4>Available Dates:</h4>
+            <li>10.10.2015</li>
+            <div class="button"> <a href="../links/Book-a-Trip.html">BOOK</a> </div>
+            <li>11.10.2015</li>
+            <div class="button"><a href="../links/Book-a-Trip.html"> BOOK </a>
+            </div>
+            <li>12.10.2015</li>
+                
+                <div class="button"><a href="../links/Book-a-Trip.html">BOOK</a> </div>
+        </ul>
+    </div>
+      <div id="description">
+	<p>Alberta is undoubtedly one of the most breathtaking places on earth, as vast as it is varied in landscape and experiences. It’s a vacation destination you won’t soon forget, filled with unique activities, urban charms and cultural jewels.</p>
+    </div>
+    <div id="program">
+	<ul>
+		<li>Places to see</li><br>
+			<ol>
+				<li>The Calgary Stampede<br> </li>
+				<li>The Calgary Zoo<br> </li>
+				<li>The Glenbow Museum<br> </li>
+			</ol><br>
+		<li>Things to do</li><br>
+			<ol>
+				<li>Golf<br> </li>
+				<li>Horseback Riding<br> </li>
+				<li>Hockey Game<br> </li>
+			</ol>
+	</ul>
+    </div>
+    
+    
+    
+	<!--
+    
+    RADIO BUTTONS for RATINGS. to be implemented at a future date. 
+
+<form>
+        Rate this Destination<br>
+		<input type="radio" name="rating" Value=1 checked>1<br>
+		<input type="radio" name="rating" Value=2 >2<br>
+		<input type="radio" name="rating" Value=3 >3<br>
+		<input type="radio" name="rating" Value=4 >4<br>
+		<input type="radio" name="rating" Value=5 >5<br>
+	</form>	-->
+
+       <div class="break">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div>
+    
+        <div id="program">
+            <h4>Services Included</h4>
+		
+    </ul>
+				<li>Hotel at Holiday Inn<br> </li>
+				<li>Continental Breakfast<br></li>
+				<li>Satisfaction Guarantee<br> </li>
+	</ul>
+    </div>
+        <div id="program">
+	            <h4>Services Excluded</h4>
+		
+    </ul>
+				<li>Transportation<br> </li>
+				<li>Bar fees<br></li>
+				<li>Pay Per VVView<br> </li>
+	</ul>
+    </div>
+    
+    
+        <div class="break">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div>
+    
+      
+    
+   <!-- <span class="reviewarea"><div id="reviews">
+
+
+
+
+<div class="newreview">
+<h2>Leave a comment below</h2>
+<select name="identity" id="identity">
+<option value="inputtype0">I am a...</option>
+<option value="inputtype1">Traveller</option>
+<option value="inputtype2">Manager</option>
+</select>
+<div id="inputtype1"><form>
+<h3>Leave a comment about your stay!</h3>
+Title: <input type="text" id="title"><br>
+Name: <input type="text" id="username"><br>
+Rating (1-5): <input type="number" id="rating" min="1" max="5"><br>
+<textarea rows="5" cols="60" id="reviewtext" placeholder="Detailed description..."></textarea><br>
+<input type="button" id="button1" onclick="handleTravellerPost();" value="Submit">
+</form></div>
+<div id="inputtype2"><form>
+<textarea rows="5" cols="60" id="managerreview" placeholder="Respond to customer..."></textarea><br>
+<input type="button" id="button2" onclick="handleManagerPost();" value="Submit">
+</form></div>
+<br><br>
+<input type="button" id="clearlocal" onclick="clearLocalStorage();" value="Clear All Comments"></div>
+</span>
+
+<div id="deletedcomments"></div>
+-->
+        
+         <br><br><a href="../index.html">back</a>
+    
+</body>
+    
+    
+</html>
